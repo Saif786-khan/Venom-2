@@ -10,8 +10,8 @@ global.ytname = "LEGEND"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '923704798009,923156828274,254782572110'  //creator number
-global.ownername = 'LEGEND' //owner name
+global.ownernumber = '923326271312,923235587941,923704798009'  //creator number
+global.ownername = 'Black SQUAD' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
@@ -20,7 +20,7 @@ global.author = 'David_Cyril\n\nContact: +2349066528353'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = " BLACK SQUAD."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
